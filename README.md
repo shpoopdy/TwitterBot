@@ -1,6 +1,6 @@
 # Twitter Bot
-This is going to be a twitter bot that will post video game related pictures and hopefully
-video game related things that aren't just pictures.
+CS 232 - Python Programming - Spring 2021
+*Python Version 3.6*
 
 ```
 pip install tweepy
