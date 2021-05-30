@@ -21,7 +21,6 @@ def retweet_bot():
         try:
             tweet.retweet()
             print("Retweet Success.")
-            # Create favorite is the "like" option
             api.create_favorite(tweet.id)
         except tweepy.TweepError as e:
             print(e.reason)
