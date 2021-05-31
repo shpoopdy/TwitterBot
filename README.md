@@ -5,6 +5,7 @@ CS 232 - Python Programming - Spring 2021
 ```
 pip install tweepy
 pip install gspread
+pip install google-auth-oauthlib
 ```
 # Bot Page
 https://twitter.com/Nelja_Games
@@ -18,5 +19,7 @@ have it create your config.py.
 
 
 # Regular Tweet
-The regular_tweet function uses the google sheets api. Follow the link to setup
-https://developers.google.com/sheets/api/quickstart/python
+The regular_tweet pulls its tweets from a google sheet so it requires credentials
+to use and an email for the Bot if you do not wish to use your personal email. In the
+link is the step by step guide by Google for accessing your app credentials.
+https://developers.google.com/workspace/guides/create-credentials
