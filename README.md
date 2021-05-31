@@ -11,9 +11,10 @@ pip install google-auth-oauthlib
 https://twitter.com/Nelja_Games
 
 # Getting Started
-To run you'll need a Twitter developer account and the consumer key, consumer secret,
-auth key, and auth secret for your bot. Once you have those run the setup script to
-have it create your config.py.
+If you would like to run this you'll need a Twitter developer account and the consumer key,
+consumer secret, auth key, and auth secret for your bot. Once you have those run the setup script to
+have it create your config.py. Tweepy will be enough to have it run with the given information,
+the regular tweet function gets a little more involved with google api.
 
 
 
