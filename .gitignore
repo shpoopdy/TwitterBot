@@ -131,3 +131,6 @@ dmypy.json
 # API Keys
 config.py
 credentials.json
+
+# VSCode
+.vscode
