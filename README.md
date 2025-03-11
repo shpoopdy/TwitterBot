@@ -1,5 +1,5 @@
 # Note
-This is an old project from when I was a student in the university and now its only purpose is to show how I had coded this back in 2021. Twitter is now known as X and I don't know if this README is still current in setting up an account that retweets, if they're still called that.
+This is an old project from when I was a university student and now its only purpose is to show how I had coded this back in 2021. Twitter is now known as X and I don't know if this README is still current in setting up an account that retweets, if they're still called that.
 
 # Twitter Bot
 CS 232 - Python Programming - Spring 2021  
